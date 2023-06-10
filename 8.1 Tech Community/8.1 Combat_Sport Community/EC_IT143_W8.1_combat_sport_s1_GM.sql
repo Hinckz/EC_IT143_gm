@@ -1,1 +1,0 @@
---Q: What is Mohammad Ali's K.O rate?

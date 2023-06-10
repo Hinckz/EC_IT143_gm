@@ -1,3 +1,0 @@
---Q: What is Mohammad Ali's K.O rate?
-
---A: Let's ask SQL Server and find out....
