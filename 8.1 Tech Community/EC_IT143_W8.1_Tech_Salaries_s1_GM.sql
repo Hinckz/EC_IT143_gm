@@ -1,0 +1,1 @@
+--Q: How much in USD does a data quality analyst in Nigeria earn?
